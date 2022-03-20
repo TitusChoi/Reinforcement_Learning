@@ -6,7 +6,7 @@ It is possible to learn reinforcement learning fundamentals that directly implem
 
 ## Contents
 - Textbook Review: Reinforcement Learning: An Introduction, 2nd edition
-    - [Ch 2: Multi-arm Bandit](https://web.stanford.edu)
+    - [Ch 2: Multi-arm Bandit](https://github.com/TitusChoi/Reinforcement_Learning/blob/master/Textbook(Reinforcement_Learning_An_Introduction)_Review/Ch2_Multi-arm_Bandit_WJ.pdf)
 
 ## Reference
 [Reinforcement Learning: An Introduction, 2nd edition](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)

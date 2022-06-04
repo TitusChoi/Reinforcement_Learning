@@ -12,6 +12,7 @@ It is possible to learn reinforcement learning fundamentals that directly implem
     - [Ch 5: Monte Carlo Methods by Yunkeun Kwon](https://github.com/TitusChoi/Reinforcement_Learning/blob/master/Textbook(Reinforcement_Learning_An_Introduction)_Review/Ch5_Monte_Carlo_Methods_YG.pdf)
     - [Ch 6: Temporal Difference Learning by Younghwa Oh](https://github.com/TitusChoi/Reinforcement_Learning/blob/master/Textbook(Reinforcement_Learning_An_Introduction)_Review/Ch6_Temporal_Difference_Learning_YH.pdf)
     - [Ch 7: N-step Bootstrapping by Yubin Kim](https://github.com/TitusChoi/Reinforcement_Learning/blob/master/Textbook(Reinforcement_Learning_An_Introduction)_Review/Ch7_N-step_Bootstrapping_YB.pdf)
+    - [Ch 8: Planning and Learning with Tabular Methods by Jaeshik Shin](https://github.com/TitusChoi/Reinforcement_Learning/blob/master/Textbook(Reinforcement_Learning_An_Introduction)_Review/Ch8_Planning_and_Learning_with_Tabular_Methods_JS.pdf)
 
 ## Reference
 [1] R.S. Sutton and A.G. Barto, “[Reinforcement Learning: An Introduction 2nd Edition](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)”, The MIT Press, Cambridge, 2018.

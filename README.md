@@ -15,6 +15,7 @@ It is possible to learn reinforcement learning fundamentals that directly analyz
     - [Ch 8: Planning and Learning with Tabular Methods by Jaeshik Shin](https://github.com/TitusChoi/Reinforcement_Learning/blob/master/Textbook(Reinforcement_Learning_An_Introduction)_Review/Ch8_Planning_and_Learning_with_Tabular_Methods_JS.pdf)
     - [Ch 9: On-policy Prediction with Approximation by Jaeshik Shin](https://github.com/TitusChoi/Reinforcement_Learning/blob/master/Textbook(Reinforcement_Learning_An_Introduction)_Review/Ch9_On-policy_Prediction_with_Approximation_JS.pdf)
     - [Ch 10: On-policy Control with Approximation by Dido Choi](https://github.com/TitusChoi/Reinforcement_Learning/blob/master/Textbook(Reinforcement_Learning_An_Introduction)_Review/Ch10_On-policy_Control_with_Approximation_DD.pdf)
+    - [Ch 11: Off-policy Methods with Approximation by Younghwa Oh](https://github.com/TitusChoi/Reinforcement_Learning/blob/master/Textbook(Reinforcement_Learning_An_Introduction)_Review/Ch11_Off-policy_Methods_with_Approximation_YH.pdf)
 
 ## Reference
 [1] R.S. Sutton and A.G. Barto, “[Reinforcement Learning: An Introduction 2nd Edition](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)”, The MIT Press, Cambridge, 2018.
